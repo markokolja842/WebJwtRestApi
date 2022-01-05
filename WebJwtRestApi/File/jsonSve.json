@@ -1,0 +1,55 @@
+{
+  "faktura": {
+    "idFaktura": 18,
+    "brojFakture": 0,
+    "idSubjekat": 1,
+    "subjekatNaziv": "\"EVOLUTION ONLINE - EON\" D.O.O",
+    "subjekatPodaci": "Dr. Ivana Ribara 158, 11070 Novi Beograd, Tekući računi: 170-30005036000-02 - Unicredit banka  Telefoni: 011-24-74-364 FAX: 011-24-74-364  E-Mail: office@eonsystem.com  Matični broj: 17464272  Registarski broj: 1117464272   PIB: 102789279  Šifra deletnosti: 72200",
+    "datumFakture": "15.08.2021",
+    "idKomitent": 200,
+    "adresa": "Bul. Milutina Milankovica 134g,  11000 Beograd",
+    "nazivKomitenta": "Uniqa osiguranje Zivot",
+    "pib": "123456789",
+    "idStatus": 3,
+    "idValuta": 1,
+    "kurs": 118.2,
+    "rokZaUplatu": "15.09.2021",
+    "poreskoOslobodjenje": 0,
+    "poslovnica": "Poslovnica neka",
+    "napomena": "Faktura se odnosi na mesec OKTOBAR",
+    "ukupnoBezPoreza": 120600.5,
+    "popust": 0.0,
+    "poreskaOSnovica": 120600.5,
+    "pdv": 24120.1,
+    "ukupno": 144720.6,
+    "fakturisao": "Marko Marković",
+    "stavke": [
+      {
+        "rb": 1,
+        "idArtikal": 0,
+        "idJedinicaMere": 0,
+        "jedinicaMereNaziv": "Nedefinisano",
+        "idPoreskaGrupa": 1,
+        "poreskaGrupaNaziv": 20.0,
+        "naziv": "Usluge odrzavanja necega",
+        "kolicina": 1.0,
+        "rabat": 0.0,
+        "jedinicnaCena": 110600.5,
+        "stavkaVrednost": 132720.6
+      },
+      {
+        "rb": 2,
+        "idArtikal": 5,
+        "idJedinicaMere": 1,
+        "jedinicaMereNaziv": "Komad",
+        "idPoreskaGrupa": 1,
+        "poreskaGrupaNaziv": 20.0,
+        "naziv": "Ruter",
+        "kolicina": 1.0,
+        "rabat": 0.0,
+        "jedinicnaCena": 10000.0,
+        "stavkaVrednost": 12000.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"stavke": [
+	  {
+		"rb": 1,
+		"idArtikal": 0,
+		"idJedinicaMere": 0,
+		"jedinicaMereNaziv": "Nedefinisano",
+		"idPoreskaGrupa": 1,
+		"poreskaGrupaNaziv": 20.0,
+		"naziv": "Usluge odrzavanja necega",
+		"kolicina": 1.0,
+		"rabat": 0.0,
+		"jedinicnaCena": 110600.5,
+		"stavkaVrednost": 132720.6
+	  },
+	  {
+		"rb": 2,
+		"idArtikal": 5,
+		"idJedinicaMere": 1,
+		"jedinicaMereNaziv": "Komad",
+		"idPoreskaGrupa": 1,
+		"poreskaGrupaNaziv": 20.0,
+		"naziv": "Ruter",
+		"kolicina": 1.0,
+		"rabat": 0.0,
+		"jedinicnaCena": 10000.0,
+		"stavkaVrednost": 12000.0
+	  }
+	]
+}
